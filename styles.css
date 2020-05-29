@@ -1,0 +1,48 @@
+body{
+    max-width:1440px;
+    font-size:16px;
+    font-family: 'Karla', sans-serif;
+}
+
+h2{
+    font-weight: 700;
+    color:hsl(179, 62%, 43%);
+}
+
+h4{
+    font-weight:700;
+    color:hsl(71, 73%, 54%);
+}
+
+p{
+    color:hsl(218, 22%, 67%);
+}
+
+.p-1{
+    color:hsl(204, 43%, 93%);
+}
+
+.header{
+    padding:50px;
+    background-color:#fff;
+}
+
+.footer-one{
+    background-color:#0e9aa7;
+    padding:50px;
+}
+
+.footer-two{
+    background-color: hsl(179, 62%, 43%);
+    padding:50px;
+}
+
+.button{
+    background-color:hsl(71, 73%, 54%);
+    color:#fff;
+}
+
+.fee{
+    font-size:30px;
+    margin-right:5px;
+}
